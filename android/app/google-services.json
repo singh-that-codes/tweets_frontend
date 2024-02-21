@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "651544717148",
+    "project_id": "tweetz-e4ab3",
+    "storage_bucket": "tweetz-e4ab3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651544717148:android:89e56eb29bec393b984399",
+        "android_client_info": {
+          "package_name": "com.example.tweet_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASrys1WO2SU7nbo3wowlUNykK0Xwg0cDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
