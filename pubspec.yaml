@@ -18,6 +18,7 @@ dependencies:
   onboarding: ^3.1.0
   firebase_core: ^2.25.4
   firebase_auth: ^4.17.5
+  google_sign_in: ^6.2.1
 
 dev_dependencies:
   flutter_test:
@@ -31,3 +32,4 @@ flutter:
     - assets/images/sky.jpg
     - assets/images/person.jpg
     - assets/images/leaf.jpg
+    - assets/images/google.png
